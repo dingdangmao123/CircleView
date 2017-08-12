@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleView">
+        <attr name="mTitle" format="string"/>
+        <attr name="subTitle" format="string"/>
+        <attr name="mColor" format="color"/>
+        <attr name="subColor" format="color"/>
+        <attr name="mSize" format="dimension"/>
+        <attr name="subSize" format="dimension"/>
+
+        <attr name="outRadius" format="dimension"/>
+        <attr name="innerRadius" format="dimension"/>
+
+        <attr name="width" format="dimension"/>
+        <attr name="outColor" format="integer"/>
+        <attr name="innerColor" format="integer"/>
+    </declare-styleable>
+</resources>
