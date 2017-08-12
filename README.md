@@ -17,7 +17,8 @@ some attrs
 
 # example
 
-```<com.dingdangmao.circleview.CircleView
+```xml
+<com.dingdangmao.circleview.CircleView
         android:id="@+id/cv"
         app:width="15dp"
         app:mTitle="25%"
@@ -32,4 +33,5 @@ some attrs
         app:innerColor="@color/inner"
         android:background="#FFFFFF"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />```
+        android:layout_height="match_parent" />
+```
