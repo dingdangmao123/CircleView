@@ -2,13 +2,15 @@
 a simple android view
 
 
+![CircleView](/snap/demo.PNG)
+
+
 some attrs
 
 * `mTitle` - main title
 * `subtitle` - sub title
 * `msize` - the size of main title
 * `mcolor` - the color of main title
-
 
 
 
