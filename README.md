@@ -2,13 +2,20 @@
 a simple android view
 
 
+some attrs
+
+* `mTitle` - main title
+* `subtitle` - sub title
+* `msize` - the size of main title
+* `mcolor` - the color of main title
+
 
 
 
 
 # example
 
-`<com.dingdangmao.circleview.CircleView
+```<com.dingdangmao.circleview.CircleView
         android:id="@+id/cv"
         app:width="15dp"
         app:mTitle="25%"
@@ -23,4 +30,4 @@ a simple android view
         app:innerColor="@color/inner"
         android:background="#FFFFFF"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />`
+        android:layout_height="match_parent" />```
