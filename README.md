@@ -1,5 +1,5 @@
 # CircleView
-a simple android view
+a simple android circle view
 
 
 ![CircleView](/snap/demo.PNG)
@@ -7,12 +7,17 @@ a simple android view
 
 some attrs
 
+* `width` - the width of the outer arc
 * `mTitle` - main title
-* `subtitle` - sub title
+* `subtitle` - sub title under main title
 * `msize` - the size of main title
 * `mcolor` - the color of main title
-
-
+* `subColor` - the color of sub title
+* `subSize` - the size of sub title
+* `outRadius` - the radius of the outer circle
+* `innerRadius` - thee radius of the inner circle
+* `outColor` - the color of the outer circle
+* `innerColor` - the color of the inner circle
 
 
 # example
@@ -35,3 +40,9 @@ some attrs
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 ```
+
+
+
+
+
+
